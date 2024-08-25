@@ -1,3 +1,7 @@
+# This work is a Fork of the main by KP
+This work does not follow the way exlained below, but the isntruction given in a seperate email. The continaner are made directly by Docker thru GitHub Secterts without using AZURE. 
+
+
 # Containerized Python API Template repository
 
 Learn how to create a container and package it with GitHub Actions. This repository template gives you a good starting point for a Dockerfile, GitHub Actions workflow, and Python code.

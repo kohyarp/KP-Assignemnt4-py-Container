@@ -1,5 +1,8 @@
 # as per instruction AZURE deployment is removed from workfrlow and YML file
 # Docker credential is added secret to this repo with the name KP_DOCKER_PROFILE
+#Many changes made to the original YML workflow, I hope it works 
+# Changes made by KP
+ 
 name: Trigger auto deployment for demo-container
 
 # When this action will be executed
